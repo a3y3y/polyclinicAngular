@@ -1,0 +1,26 @@
+* {
+  font-size: 20px;
+}
+.block {
+  display: flex;
+  background-color: lightgray;
+  justify-content: space-between;
+  align-items: center;
+  height: 2.5rem;
+  padding: 0 0.8rem;
+}
+button {
+  height: 100%;
+  background-color: inherit;
+  border: none;
+  padding: 0 0.5rem;
+}
+button:hover{
+  background-color:aliceblue;
+}
+img {
+  height: 1em;
+}
+div {
+  height: 100%;
+}
